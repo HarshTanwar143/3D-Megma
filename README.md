@@ -29,4 +29,4 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/HarshTanwar143/megma.git
+   git clone https://github.com/HarshTanwar143/3D-Megma.git
